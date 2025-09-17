@@ -14,3 +14,5 @@ Esta seção é a introdução do Detonado Git.
 Seção Header da wiki.
 
 Seção Footer da wiki.
+
+Lorem ipsum
